@@ -1,2 +1,2 @@
 # rock-paper-scissors
-This is practice basic javascript
+This is practice basic javascript =_=
